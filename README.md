@@ -6,6 +6,7 @@ this is a _practice_ repo for git and github basics
 - [signature 4](#signature-4)
 - [signature 5](#signature-5)
 - [signature 6](#signature-6)
+- [signature 7](#signature-7)
 
 ### signature 1
 name:janw4ld</br>
@@ -30,3 +31,7 @@ email:ahmedehabgamil@gmail.com</br>
 ### signature 6
 name:hoda-habash</br>
 email:hhhoda.hbsh@gmail.com</br>
+
+### signature 7
+name : hagaartarek</br>
+email: hagartarek2038@gmail.com</br>
